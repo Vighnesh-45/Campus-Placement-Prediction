@@ -5,6 +5,7 @@ This project uses Python to make a smart tool that predicts if a student will ge
 
 # Key Objectives
 • Develop a predictive model for campus placements using Python and machine learning algorithms.
+
 • Achieve high accuracy, with logistic regression identified as the most accurate algorithm among the employed methods.
 
 # Dependencies
